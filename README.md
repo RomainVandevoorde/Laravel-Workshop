@@ -23,9 +23,13 @@ Dans le cadre du workshop, nous utiliserons la version 5.5 de Laravel, qui est l
 
 1. Installer Composer globalement ou localement.
 2. Créer un nouveau projet Laravel avec la commande suivante:    
-``composer create-project laravel/laravel projet "5.5.*"```   
+```Shell
+composer create-project laravel/laravel projet "5.5.*"
+```
 Ou si Composer est installé localement:    
-``php composer.phar create-project laravel/laravel projet "5.5.*"``    
+```Bash
+php composer.phar create-project laravel/laravel projet "5.5.*"
+```
 
 **/!\ N'installez pas Laravel en sudo. Si vous avez un problème de permission, vérifiez que vous avez bien le droit d'écriture dans votre dossier de travail. Installer Laravel en root vous causera plein de bugs.**
 
