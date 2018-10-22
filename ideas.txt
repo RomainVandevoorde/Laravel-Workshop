@@ -1,0 +1,42 @@
+_SECURITY_
+encryption vs hashing
+encrypt postal address
+
+_MVC_
+exo: créer une page Hello World en utilisant Vue, Contrôleur et Routeur
+
+_ROUTING_
+les méthodes
+passer des paramètres
+
+_ORM_
+pourquoi l'utiliser
+exemple avec Eloquent + exo: créer un modèle article + comments + users
+hasOne, hasMany, etc...
+
+
+gérer les erreurs (flash session, messages formulaire + old value)
+template engine: why & how
+form validation: exists, unique
+
+
+_Service providers_
+exo: utiliser un service provider pour charger des helpers
+
+
+Exercice 1: Faites un MVC uniquement avec des fonctions
+C'est très très répétitif => On va utiliser des classes
+
+Partie - MVC
+ex: faire un MVC en procédural avec des require + fonctions
+Partie - OOP
+ex: utiliser héritage pour faciliter l'écriture des modèles
+Partie - Laravel MVC
+ex: faire un hello world en utilisant le MVC de Laravel
+Partie - Laravel ORM
+ex: Afficher des données reliées avec Eloquent
+Partie - Laravel form validation (request, session, validation)
+ex: Créer un petit formulaire
+-> démontrer utilisation de exists, unique,...
+Partie - Laravel Auth
+-> démontrer système de guards
